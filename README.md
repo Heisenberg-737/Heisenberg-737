@@ -29,7 +29,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heisenberg-737&show_icons=true&locale=en&layout=compact" alt="heisenberg-737" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heisenberg-737&show_icons=true&theme=dark&locale=en" alt="heisenberg-737" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heisenberg-737&show_icons=true&theme=dark&locale=en" alt="heisenberg-737" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heisenberg-737&" alt="heisenberg-737" /></p>
 
