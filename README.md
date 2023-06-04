@@ -7,13 +7,15 @@
 
 - 🧑🏼‍💻 Incoming Software Engineer at **JPMorgan, London**
 
-- 👨 Checkout my portfolio at [pranaykothari.com](pranaykothari.com)
+- 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) in 2023
+
+- 🌟 Checkout my portfolio at [pranaykothari.com](pranaykothari.com)
 
 - 📝 I regularly write articles on [pranay-kothari.medium.com](pranay-kothari.medium.com)
 
-- 📫 How to reach me **pranay.kothari.official@gmail.com**
+- 📬 How to reach me **pranay.kothari.official@gmail.com**
 
-- ⚡ Fun fact **I am a die-hard Star Wars fan**
+- ⚡️ Fun fact **I am a die-hard Star Wars fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
