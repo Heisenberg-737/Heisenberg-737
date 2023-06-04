@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-737&label=Profile%20views&color=f9c453&style=plastic" alt="heisenberg-737" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pranaykothari__" target="blank"><img src="https://img.shields.io/twitter/follow/pranaykothari__?logo=twitter&style=for-the-badge" alt="pranaykothari__" /></a> </p>
-
 - 🧑🏼‍💻 Incoming Software Engineer at **JPMorgan, London**
 
 - 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) in 2023
