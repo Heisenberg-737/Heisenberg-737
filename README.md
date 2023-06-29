@@ -9,7 +9,7 @@
 
 - 🌟 Checkout my portfolio at [pranaykothari.com](https://pranaykothari.com/)
 
-- 📝 I regularly write articles on [pranay-kothari.medium.com](pranay-kothari.medium.com)
+- 📝 I regularly write articles on [pranay-kothari.medium.com](https://pranay-kothari.medium.com/)
 
 - 📬 How to reach me **pranay.kothari.official@gmail.com**
 
