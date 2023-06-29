@@ -7,7 +7,7 @@
 
 - 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) in 2023
 
-- 🌟 Checkout my portfolio at [pranaykothari.com](pranaykothari.com)
+- 🌟 Checkout my portfolio at [pranaykothari.com](https://pranaykothari.com/)
 
 - 📝 I regularly write articles on [pranay-kothari.medium.com](pranay-kothari.medium.com)
 
