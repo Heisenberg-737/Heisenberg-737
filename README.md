@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Pranay Kothari</h1>
-<h3 align="center">A passionate Software Engineer from Delhi, India</h3>
+<h3 align="center">A passionate Software Engineer from London, United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-737&label=Profile%20views&color=f9c453&style=plastic" alt="heisenberg-737" /> </p>
 
-- 🧑🏼‍💻 Incoming Software Engineer at **JPMorgan, London**
+- 🧑🏼‍💻 Software Engineer at **JPMorgan, London**
 
 - 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) in 2023
 
-- 🌟 Checkout my portfolio at [pranaykothari.com](https://pranaykothari.com/)
+- 🌟 Check out my portfolio at [pranaykothari.com](https://pranaykothari.com/)
 
 - 📝 I regularly write articles on [pranay-kothari.medium.com](https://pranay-kothari.medium.com/)
 
