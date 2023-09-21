@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-737&label=Profile%20views&color=f9c453&style=plastic" alt="heisenberg-737" /> </p>
 
-- 🧑🏼‍💻 Software Engineer at **JPMorgan, London**
+- 🧑🏼‍💻 Software Engineer at **JPMorgan Chase & Co.**
 
 - 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) in 2023
 
