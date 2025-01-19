@@ -5,7 +5,7 @@
 
 - 🧑🏼‍💻 Software Engineer at **JPMorgan Chase & Co.**
 
-- 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) from Netaji Subhas University of Technology, Delhi in 2023
+- 🧑🏼‍🎓 Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) from NSUT, Delhi in 2023
 
 - 🌟 Check out my portfolio at [pranaykothari.com](https://pranaykothari.com/)
 
