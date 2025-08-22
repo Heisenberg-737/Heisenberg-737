@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-737&label=Profile%20views&color=f9c453&style=plastic" alt="heisenberg-737" /> </p>
 
 - 🧑🏼‍💻 Software Engineer at **JPMorgan Chase & Co.**
-- 
+  
 - 👨‍🎓 Pursuing MSc in Software Engineering at the University of Oxford
-- 
+  
 - 🖥️ Graduated with BTech in Computer Science and Engineering (Artificial Intelligence) from NSUT, Delhi in 2023
 
 - 🌟 Check out my portfolio at [pranaykothari.com](https://pranaykothari.com/)
