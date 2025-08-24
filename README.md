@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pranay Kothari</h1>
-<h3 align="center">Software Engineer at JPMorganChase and CS Postgrad at University of Oxford</h3>
+<h3 align="center">Software Engineer at JPMorganChase and Postgrad at University of Oxford</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-737&label=Profile%20views&color=f9c453&style=plastic" alt="heisenberg-737" /> </p>
 
